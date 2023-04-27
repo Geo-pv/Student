@@ -1,2 +1,3 @@
 # Student
-Hello, world! this it my first repository
+Student
+In this repository we can test github opportunties
